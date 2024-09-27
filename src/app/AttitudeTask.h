@@ -5,10 +5,10 @@
 extern "C" {
 #endif
 
-extern void AttitudeTask(void const * argument);
+extern void AttitudeTask(void const *argument);
 
 #ifdef __cplusplus
 }
 #endif
 
-#endif /* ATTITUDE_TASK_H */    
+#endif /* ATTITUDE_TASK_H */
